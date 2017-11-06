@@ -2,11 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://nico21.me/index.html</loc>
-    <lastmod>2017-11-05</lastmod>
+    <lastmod>2017-11-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://nico21.me/images/norway_july72017_nicolasterrazas_12-crop-u800.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nico21.me/images/instagram.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nico21.me/images/facebook.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nico21.me/images/snapchat.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://nico21.me/images/bayou_july212013_nicolasterrazas_02.jpg</image:loc>
@@ -29,31 +38,37 @@
   </url>
   <url>
     <loc>http://nico21.me/about.html</loc>
-    <lastmod>2017-11-05</lastmod>
+    <lastmod>2017-11-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nico21.me/resume.html</loc>
-    <lastmod>2017-11-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://nico21.me/images/dsc_7331-crop-u1369.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://nico21.me/contact.html</loc>
-    <lastmod>2017-11-05</lastmod>
+    <lastmod>2017-11-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://nico21.me/images/instagram.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nico21.me/images/facebook.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nico21.me/images/snapchat.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://nico21.me/assets/open-icon-1.png</loc>
+    <lastmod>2017-11-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://nico21.me/assets/open-icon-1.svg</loc>
-    <lastmod>2017-01-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nico21.me/assets/close-icon-bold.svg</loc>
-    <lastmod>2017-01-03</lastmod>
+    <loc>http://nico21.me/assets/close-icon-bold.png</loc>
+    <lastmod>2017-11-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
