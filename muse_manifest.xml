@@ -1,0 +1,68 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nico21.me" resolutions="1x" timestamp="1509939302176">
+  <folder name="css">
+    <file name="site_global.css" crc="160659830"/>
+    <file name="master_a-master.css" crc="441136424" ref="resume:index:about:contact"/>
+    <file name="resume.css" crc="3872711913" ref="resume"/>
+    <file name="index.css" crc="262844441" ref="index"/>
+    <file name="about.css" crc="4252237704" ref="about"/>
+    <file name="contact.css" crc="4114004794" ref="contact"/>
+  </folder>
+  <folder name="assets">
+    <file name="open-icon-1.svg" crc="113184407" seo="true" mt="1483454298000"/>
+    <file name="close-icon-bold.svg" crc="4146879777" seo="true" mt="1483458504000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:resume:contact"/>
+    <file name="museutils.js" crc="3803043152" ref="index:about:resume:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:resume:contact"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:about:resume:contact"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:about:resume:contact"/>
+    <file name="webpro.js" crc="242022427" ref="index:contact"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u297.php" crc="3881897815" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index:about:resume:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="resume"/>
+    <file name="form-u444.php" crc="3775274475" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4036020180" ref="index"/>
+    <file name="norway_july72017_nicolasterrazas_12-crop-u800.jpg" crc="4045155161" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bayou_july212013_nicolasterrazas_02.jpg" crc="373099724" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="gretchencahill_november112016_nicolasterrazas_204bw.jpg" crc="466585862" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gretchencahill_november112016_nicolasterrazas_123.jpg" crc="3828579337" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="colorado_7262017_nicolasterrazas_07.jpg" crc="4154032909" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rome_july202017_nicolasterrazas_41.jpg" crc="4087409533" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="keith.gif" crc="364070618" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sweater-layer 1.jpg" crc="89051890" ref="resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="sweater.jpg" crc="388963084" ref="resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3953067309" seo="true" mt="1509939268471" redirect="true"/>
+  <file name="about.html" crc="17838401" seo="true" mt="1509939268471" redirect="true"/>
+  <file name="resume.html" crc="4128689418" seo="true" mt="1509939268471" redirect="true"/>
+  <file name="contact.html" crc="376724134" seo="true" mt="1509939268471" redirect="true"/>
+</manifest>
