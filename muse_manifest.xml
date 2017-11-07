@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nico21.me" resolutions="1x" timestamp="1509991161212">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nico21.me" resolutions="1x" timestamp="1510033459525">
   <folder name="css">
     <file name="site_global.css" crc="160659830"/>
     <file name="master_a-master.css" crc="3959537579" ref="index:about:contact"/>
-    <file name="index.css" crc="65353967" ref="index"/>
-    <file name="about.css" crc="399000940" ref="about"/>
+    <file name="index.css" crc="3846298918" ref="index"/>
+    <file name="about.css" crc="213326778" ref="about"/>
     <file name="contact.css" crc="209596489" ref="contact"/>
   </folder>
   <folder name="assets">
@@ -23,7 +23,7 @@
     <file name="require.js" crc="4157109226" ref="index:about:contact"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="4036020180" ref="index"/>
+    <file name="home-favicon.ico" crc="120264499" ref="index"/>
     <file name="norway_july72017_nicolasterrazas_12-crop-u800.jpg" crc="4045155161" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -60,11 +60,13 @@
     <file name="keith.gif" crc="364070618" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="about-favicon.ico" crc="120264499" ref="about"/>
     <file name="dsc_7331-crop-u1369.jpg" crc="3770418571" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
+    <file name="contact-favicon.ico" crc="120264499" ref="contact"/>
   </folder>
-  <file name="index.html" crc="3816621809" seo="true" mt="1509991139587" redirect="true"/>
-  <file name="about.html" crc="58862308" seo="true" mt="1509990899051" redirect="true"/>
-  <file name="contact.html" crc="3878704838" seo="true" mt="1509990899051" redirect="true"/>
+  <file name="index.html" crc="321315549" seo="true" mt="1510033005239" redirect="true"/>
+  <file name="about.html" crc="4191840204" seo="true" mt="1510033005239" redirect="true"/>
+  <file name="contact.html" crc="4190839761" seo="true" mt="1510033005239" redirect="true"/>
 </manifest>
