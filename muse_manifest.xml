@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nico21.me" resolutions="1x" timestamp="1510257178015">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nico21.me" resolutions="1x" timestamp="1510257866938">
   <folder name="css">
     <file name="site_global.css" crc="160659830"/>
-    <file name="master_a-master.css" crc="80804957" ref="about:contact:gallery:index"/>
-    <file name="about.css" crc="3787313594" ref="about"/>
+    <file name="master_a-master.css" crc="80804957" ref="contact:index:about:gallery"/>
     <file name="contact.css" crc="4079311124" ref="contact"/>
-    <file name="gallery.css" crc="313276554" ref="gallery"/>
     <file name="index.css" crc="3958064072" ref="index"/>
+    <file name="about.css" crc="3787313594" ref="about"/>
+    <file name="gallery.css" crc="304448342" ref="gallery"/>
   </folder>
   <folder name="assets">
     <file name="open-icon-1.png" crc="3999611692" seo="true" mt="1509989916000"/>
@@ -89,8 +89,8 @@
       <caption webpage="gallery" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="427139333" seo="true" mt="1510257142415" redirect="true"/>
-  <file name="about.html" crc="191209189" seo="true" mt="1510257142415" redirect="true"/>
-  <file name="contact.html" crc="180591432" seo="true" mt="1510257142415" redirect="true"/>
-  <file name="gallery.html" crc="3813627778" seo="true" mt="1510257142415" redirect="true"/>
+  <file name="index.html" crc="4111004312" seo="true" mt="1510257733520" redirect="true"/>
+  <file name="about.html" crc="3867279684" seo="true" mt="1510257733520" redirect="true"/>
+  <file name="contact.html" crc="144006439" seo="true" mt="1510257733520" redirect="true"/>
+  <file name="gallery.html" crc="41353427" seo="true" mt="1510257834160" redirect="true"/>
 </manifest>
