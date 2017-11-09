@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nico21.me" resolutions="1x" timestamp="1510256826637">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nico21.me" resolutions="1x" timestamp="1510257178015">
   <folder name="css">
     <file name="site_global.css" crc="160659830"/>
-    <file name="master_a-master.css" crc="80804957" ref="index:about:gallery:contact"/>
-    <file name="index.css" crc="474075322" ref="index"/>
+    <file name="master_a-master.css" crc="80804957" ref="about:contact:gallery:index"/>
     <file name="about.css" crc="3787313594" ref="about"/>
-    <file name="gallery.css" crc="4045610426" ref="gallery"/>
     <file name="contact.css" crc="4079311124" ref="contact"/>
+    <file name="gallery.css" crc="313276554" ref="gallery"/>
+    <file name="index.css" crc="3958064072" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="open-icon-1.png" crc="3999611692" seo="true" mt="1509989916000"/>
@@ -66,7 +66,7 @@
       <caption webpage="about" alt=""/>
     </file>
     <file name="contact-favicon.ico" crc="120264499" ref="contact"/>
-    <file name="a-master-favicon.ico" crc="120264499" ref="gallery"/>
+    <file name="gallery-favicon.ico" crc="120264499" ref="gallery"/>
     <file name="4fish.jpg" crc="318630202" seo="true" ref="gallery">
       <caption webpage="gallery" alt=""/>
     </file>
@@ -89,8 +89,8 @@
       <caption webpage="gallery" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4207706392" seo="true" mt="1510256796481" redirect="true"/>
-  <file name="about.html" crc="4144795851" seo="true" mt="1510256796481" redirect="true"/>
-  <file name="contact.html" crc="356399291" seo="true" mt="1510256796481" redirect="true"/>
-  <file name="gallery.html" crc="3785355596" seo="true" mt="1510256796481" redirect="true"/>
+  <file name="index.html" crc="427139333" seo="true" mt="1510257142415" redirect="true"/>
+  <file name="about.html" crc="191209189" seo="true" mt="1510257142415" redirect="true"/>
+  <file name="contact.html" crc="180591432" seo="true" mt="1510257142415" redirect="true"/>
+  <file name="gallery.html" crc="3813627778" seo="true" mt="1510257142415" redirect="true"/>
 </manifest>
