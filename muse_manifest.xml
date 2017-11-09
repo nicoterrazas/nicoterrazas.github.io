@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nico21.me" resolutions="1x" timestamp="1510246600583">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nico21.me" resolutions="1x" timestamp="1510256642255">
   <folder name="css">
     <file name="site_global.css" crc="160659830"/>
-    <file name="master_a-master.css" crc="80804957" ref="index:gallery:about:contact"/>
-    <file name="index.css" crc="450949514" ref="index"/>
-    <file name="gallery.css" crc="3978976361" ref="gallery"/>
-    <file name="about.css" crc="16867418" ref="about"/>
+    <file name="master_a-master.css" crc="80804957" ref="index:about:gallery:contact"/>
+    <file name="index.css" crc="3968759280" ref="index"/>
+    <file name="about.css" crc="4204749286" ref="about"/>
+    <file name="gallery.css" crc="3848362968" ref="gallery"/>
     <file name="contact.css" crc="402611122" ref="contact"/>
   </folder>
   <folder name="assets">
@@ -28,20 +28,20 @@
     <file name="norway_july72017_nicolasterrazas_12-crop-u800.jpg" crc="4045155161" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bayou_july212013_nicolasterrazas_02.jpg" crc="373099724" seo="true" ref="index">
+    <file name="bayou_july212013_nicolasterrazas_02.jpg" crc="3925809470" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="gretchencahill_november112016_nicolasterrazas_204bw.jpg" crc="466585862" seo="true" ref="index">
+    <file name="gretchencahill_november112016_nicolasterrazas_204bw.jpg" crc="491884047" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="gretchencahill_november112016_nicolasterrazas_123.jpg" crc="3828579337" seo="true" ref="index">
+    <file name="gretchencahill_november112016_nicolasterrazas_123.jpg" crc="496567349" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="colorado_7262017_nicolasterrazas_07.jpg" crc="4154032909" seo="true" ref="index">
+    <file name="colorado_7262017_nicolasterrazas_07.jpg" crc="4226027114" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="rome_july202017_nicolasterrazas_41.jpg" crc="4087409533" seo="true" ref="index">
+    <file name="rome_july202017_nicolasterrazas_41.jpg" crc="4256446095" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
@@ -89,8 +89,8 @@
       <caption webpage="gallery" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4264337316" seo="true" mt="1510246506950" redirect="true"/>
-  <file name="about.html" crc="4253640107" seo="true" mt="1510246506950" redirect="true"/>
-  <file name="contact.html" crc="3935477578" seo="true" mt="1510246506950" redirect="true"/>
-  <file name="gallery.html" crc="4229121184" seo="true" mt="1510246506950" redirect="true"/>
+  <file name="index.html" crc="411055785" seo="true" mt="1510256606983" redirect="true"/>
+  <file name="about.html" crc="4203063556" seo="true" mt="1510256606983" redirect="true"/>
+  <file name="contact.html" crc="219979309" seo="true" mt="1510256606983" redirect="true"/>
+  <file name="gallery.html" crc="484201986" seo="true" mt="1510256606983" redirect="true"/>
 </manifest>
