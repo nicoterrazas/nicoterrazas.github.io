@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nico21.me" resolutions="1x" timestamp="1510246389123">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nico21.me" resolutions="1x" timestamp="1510246600583">
   <folder name="css">
     <file name="site_global.css" crc="160659830"/>
     <file name="master_a-master.css" crc="80804957" ref="index:gallery:about:contact"/>
@@ -89,8 +89,8 @@
       <caption webpage="gallery" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="501864221" seo="true" mt="1510244032132" redirect="true"/>
-  <file name="about.html" crc="142622707" seo="true" mt="1510243635320" redirect="true"/>
-  <file name="contact.html" crc="45213640" seo="true" mt="1510243635320" redirect="true"/>
-  <file name="gallery.html" crc="243326065" seo="true" mt="1510246118138" redirect="true"/>
+  <file name="index.html" crc="4264337316" seo="true" mt="1510246506950" redirect="true"/>
+  <file name="about.html" crc="4253640107" seo="true" mt="1510246506950" redirect="true"/>
+  <file name="contact.html" crc="3935477578" seo="true" mt="1510246506950" redirect="true"/>
+  <file name="gallery.html" crc="4229121184" seo="true" mt="1510246506950" redirect="true"/>
 </manifest>
