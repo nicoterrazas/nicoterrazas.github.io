@@ -2,20 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://nico21.me/index.html</loc>
-    <lastmod>2017-11-06</lastmod>
+    <lastmod>2017-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://nico21.me/images/norway_july72017_nicolasterrazas_12-crop-u800.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nico21.me/images/instagram.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nico21.me/images/facebook.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nico21.me/images/snapchat.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://nico21.me/images/bayou_july212013_nicolasterrazas_02.jpg</image:loc>
@@ -33,12 +24,21 @@
       <image:loc>http://nico21.me/images/rome_july202017_nicolasterrazas_41.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://nico21.me/images/instagram.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nico21.me/images/facebook.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nico21.me/images/snapchat.svg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://nico21.me/images/keith.gif</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://nico21.me/about.html</loc>
-    <lastmod>2017-11-06</lastmod>
+    <lastmod>2017-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -47,7 +47,7 @@
   </url>
   <url>
     <loc>http://nico21.me/contact.html</loc>
-    <lastmod>2017-11-06</lastmod>
+    <lastmod>2017-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -58,6 +58,33 @@
     </image:image>
     <image:image>
       <image:loc>http://nico21.me/images/snapchat.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://nico21.me/gallery.html</loc>
+    <lastmod>2017-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://nico21.me/images/4fish.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nico21.me/images/dsc_3011.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nico21.me/images/quietconcert_march22_2017_nicolasterrazas_06.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nico21.me/images/5afroboy.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nico21.me/images/12triokaleakela.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nico21.me/images/rodeo_march10_2017_nicolasterrazas_06.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nico21.me/images/sophia_december29_2016_nicolasterrazas_32.jpg</image:loc>
     </image:image>
   </url>
   <url>
